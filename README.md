@@ -9,7 +9,7 @@
 
 ## OpenTimer (Illinois)
 * [OpenTimer](https://github.com/OpenTimer/OpenTimer)
-* [C++ TaskFlow](https://github.com/cpp-taskflow/cpp-taskflow)
+* [Cpp-TaskFlow](https://github.com/cpp-taskflow/cpp-taskflow)
 
 ## Logic Synthesis Oracle (Utah)
 * [Repository](https://github.com/LNIS-Projects/LSOracle)
