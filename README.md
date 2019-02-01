@@ -23,6 +23,9 @@
 ## Logic Synthesis
 * [Logic Synthesis Oracle](https://github.com/LNIS-Projects/LSOracle)
 
+## Asynchronous Design Tools
+* [ACT](https://github.com/asyncvlsi/act)
+
 ## System Design
 * [JITX](https://github.com/JITx-Inc/darpa-idea)
 * [Datasheet Parser](https://github.com/umich-cadre/FASoC-Datasheet-Scrubber)
