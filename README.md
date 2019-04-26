@@ -32,6 +32,9 @@
 ## University of Michigan (Intent Driven Analog Design)
 * [Datasheet Parser](https://github.com/idea-fasoc/datasheet-scrubber)
 
+## University of Texas (Analog Layout)
+* [Magical](https://github.com/magical-eda/MAGICAL)
+
 ## Princeton/University of Washington (Design Advisors)
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton)
 * [OpenCelerity](http://opencelertiy.org)
