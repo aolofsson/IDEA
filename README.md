@@ -32,10 +32,11 @@
 ## University of Michigan (Intent Driven Analog Design)
 * [Datasheet Parser](https://github.com/idea-fasoc/datasheet-scrubber)
 
-## Princeton (Design Advisors)
+## Princeton/University of Washington (Design Advisors)
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton)
 * [OpenCelerity](http://opencelertiy.org)
-* [Pipecleaner Suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
+* [UW BSG Pipecleaner Suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
+* [Princeton OpenPiton Design Benchmark](https://github.com/PrincetonUniversity/OPDB)
 * [System Verilog to Verilog](https://github.com/bespoke-silicon-group/bsg_sv2v)
 
 ## External Dependancies
