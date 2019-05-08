@@ -3,12 +3,12 @@
 ## UCSD (RTL2GDS)
 * [Project Site](https://theopenroadproject.org)
 * [Static Timing Analysis](https://github.com/abk-openroad/OpenSTA)
-* [Detailed Placement](https://github.com/sanggido/OpenDP)
 * [Clock Tree Synthesis](https://github.com/abk-openroad/TritonCTS)
 * [Global Placement](https://github.com/abk-openroad/RePlAce)
 * [Global Router](https://github.com/krzhu/BoxRouter)
 * [Gate Sizing](https://github.com/abk-openroad/TritonSizer)
 * [SystemVerilog2Verilog](https://github.com/umich-cadre/sv2v)
+* [Detailed Placement](https://github.com/sanggido/OpenDP)
 
 ## University of Illinos (STA)
 * [OpenTimer](https://github.com/OpenTimer/OpenTimer)
@@ -16,9 +16,10 @@
 * [DtCraft](https://github.com/twhuang-uiuc/DtCraft)
 
 ## Yale (Aysnchronous Design and Parallel Databases)
-* [ACT](https://github.com/asyncvlsi/act)
-* [ACT Documentation](http://avlsi.csl.yale.edu/act/)
-* [Galois](https://github.com/IntelligentSoftwareSystems/Galois)
+* [Asynchronous Circuit Compiler](https://github.com/asyncvlsi/act)
+* [ACT Project Page](http://avlsi.csl.yale.edu/act/)
+* [Asynchronous Memory Compiler](https://github.com/asyncvlsi/AMC)
+* [Galois Parallel Framework](https://github.com/IntelligentSoftwareSystems/Galois)
 
 ## Purdue (Parasitic Extraction)
 * [First Principle Solvers](https://github.com/purdue-onchip)
@@ -26,7 +27,7 @@
 ## University of Utah (Logic Synthesis)
 * [Logic Synthesis Oracle](https://github.com/LNIS-Projects/LSOracle)
 
-## JITX (Board Synthesis)
+## JITX (Intent Driven Board Design)
 * [JITX](https://github.com/JITx-Inc/darpa-idea)
 
 ## University of Michigan (Intent Driven Analog Design)
