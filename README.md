@@ -10,6 +10,9 @@
 * [SystemVerilog2Verilog](https://github.com/umich-cadre/sv2v)
 * [Detailed Placement](https://github.com/sanggido/OpenDP)
 
+## University of Minnesota / Intel (Automated Analog Layout)
+* [Align](https://github.com/ALIGN-analoglayout/ALIGN-public)
+
 ## University of Illinos (STA)
 * [OpenTimer](https://github.com/OpenTimer/OpenTimer)
 * [Cpp-TaskFlow](https://github.com/cpp-taskflow/cpp-taskflow)
