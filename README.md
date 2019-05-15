@@ -38,6 +38,7 @@
 
 ## University of Texas (Analog Layout)
 * [Magical](https://github.com/magical-eda/MAGICAL)
+* [Magical Test Circuits](https://github.com/magical-eda/MAGICAL-CIRCUITS)
 
 ## Princeton/University of Washington (Design Advisors)
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton)
